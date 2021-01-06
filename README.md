@@ -1,2 +1,2 @@
 # OSU-CS290
-Files from Oregon State University's CS 290 Class
+Private repository where files for CS290 - Web Development at Oregon State University will reside.
